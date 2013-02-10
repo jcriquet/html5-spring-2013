@@ -2,4 +2,6 @@ So, I spent quite a while on this assignment.  I like everything that you can do
 
 Thanks for all the amazing resources!
 
+Here's the assignment online: http://student.santarosa.edu/~jcriquet/html5/
+
 Jeremy
