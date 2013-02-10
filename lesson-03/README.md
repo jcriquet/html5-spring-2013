@@ -1,6 +1,5 @@
-html5-spring-2013
-=================
+So, I spent quite a while on this assignment.  I like everything that you can do with CSS3!  I think I made a pretty neat showcase page and I'm very happy with it.  Didn't have time to update my blog but I'm sure I'll get to that next week.
 
-SRJC CS50.12 Section 5371
+Thanks for all the amazing resources!
 
-This is a template repository for Santa Rosa Junior College students.    Clone this repository into your account 
+Jeremy
