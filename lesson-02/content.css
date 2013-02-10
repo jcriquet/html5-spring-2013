@@ -1,0 +1,43 @@
+body > section > article {
+	float: left;
+	width: 824px;
+}
+
+body > section > article .background {
+	background-color: #0B6121;
+	opacity: 0.6;
+}
+
+body > section > article > article {
+	width: 90%;
+	margin: auto;
+	margin-bottom: 20px;
+	background-color: #CCEECC;
+	border: 4px ridge #0B6121;
+	border-radius: 5px;
+	font-family: verdana, arial, sans-serif;
+}
+
+body > section > article > article > header > h1 {
+	margin: 1px;
+	float: right;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+body > section > article > article > header > p {
+	margin: 1px;
+	font-size: 10px;
+}
+
+body > section > article > article > section > p {
+	margin: 1em;
+	font-size: 12px;
+	text-align: justify;
+}
+
+body > section > article > article > footer > p {
+	margin: 1px;
+	font-size: 10px;
+	text-align: right;
+}
